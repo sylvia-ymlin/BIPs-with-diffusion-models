@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+data/
+results/
+*.pth
+docs/CV.md
+docs/APPLICATION_LETTER.md
+docs/cv.md
+docs/application_letter.md
